@@ -1,54 +1,29 @@
-# my portfolio
+# 🚀 Portfolio Professionnel - Arouna Yazid
 
-This template should help get you started developing with Vue 3 in Vite.
+Développeur Front-End passionné par la création d'interfaces web haute performance et l'expérience utilisateur. Spécialisé dans l'écosystème Vue.js moderne.
 
-## Recommended IDE Setup
+## 🛠 Ma Stack Technique
+* **Framework :** Vue.js 3 (Composition API)
+* **Outil de Build :** Vite (Ultra-rapide)
+* **Design :** Tailwind CSS & PostCSS (Responsive & Moderne)
+* **Internationalisation :** Vue-i18n (Support multilingue complet)
+* **Communication API :** Axios
+* **Gestion de formulaires :** EmailJS (Intégration directe sans backend)
+* **Optimisation :** Vue-lazyload pour la performance des images
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🌟 Points Forts de ce Projet
+* **Multilingue :** Support complet pour toucher une audience internationale.
+* **Performance :** Optimisé avec Vite et le Lazy-loading pour un chargement instantané.
+* **Architecture Propre :** Utilisation des icônes Lucide et FontAwesome pour une UI soignée.
+* **Analytique :** Intégration Vercel Analytics pour le suivi du trafic.
 
-## Recommended Browser Setup
-
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+## 📦 Lancement Local
+```bash
+# Installation
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Développement
 npm run dev
-```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
+# Build pour production
 npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
